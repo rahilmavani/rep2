@@ -12,5 +12,8 @@ int main()
     {
         printf("Go play with toys hahaha");
     }
+    printf("End of the Code");
+    printf("----------------");
+   
     return 0;
 }
